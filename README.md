@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💻 Perfil Profesional
 
-<!--
-**JuanJoseRiwi/JuanJoseRiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💼 Tecnólogo en Análisis y Desarrollo de Software
 
-Here are some ideas to get you started:
+Soy **tecnólogo en análisis y desarrollo de software** con **6 meses de experiencia** en el campo del desarrollo tecnológico. Me apasiona crear soluciones digitales innovadoras y funcionales, enfocadas en la eficiencia, la calidad y la satisfacción del usuario.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mí
+
+- 🚀 En constante aprendizaje de nuevas herramientas y tendencias tecnológicas.  
+- 💡 Me gusta analizar, planificar y construir soluciones que respondan a necesidades reales.  
+- 🤝 Disfruto trabajar en equipo, aportando ideas y colaborando para alcanzar objetivos comunes.  
+- 🎯 Me considero una persona responsable, creativa y con gran atención al detalle.  
+
+---
+
+## 🎯 Objetivo Profesional
+
+Seguir creciendo como **analista y desarrollador de software**, fortaleciendo mis competencias técnicas y profesionales para contribuir en proyectos que generen impacto positivo en la sociedad y en las organizaciones.
+
+---
